@@ -2,7 +2,7 @@
 
 Cloud Security Architect securing UK government, critical national infrastructure, and global enterprise across AWS and Azure.
 
-Director at [Cyber Spartans Ltd](https://www.cyberspartans.co.uk) · Founder of [BreachForge](https://breachforge.co.uk)
+Director at [Cyber Spartans Ltd](https://cyberspartans.co.uk) · Founder of [BreachForge](https://breachforge.co.uk)
 
 ---
 
@@ -63,7 +63,7 @@ AWS · Azure · GCP · Terraform · Kubernetes · Zscaler · Wiz · Microsoft Se
 
 - Website: [saleemyousaf.co.uk](https://www.saleemyousaf.co.uk)
 - LinkedIn: [linkedin.com/in/saleemyousaf](https://www.linkedin.com/in/saleemyousaf)
-- Cyber Spartans: [cyberspartans.co.uk](https://www.cyberspartans.co.uk)
+- Cyber Spartans: [cyberspartans.co.uk](https://cyberspartans.co.uk)
 - BreachForge: [breachforge.co.uk](https://breachforge.co.uk)
 - About.me: [about.me/saleemyousaf](https://about.me/saleemyousaf)
 - Email: saleem.yousaf@cyberspartans.co.uk
