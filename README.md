@@ -1,4 +1,4 @@
-# Hi, I'm Saleem Yousaf
+# Saleem Yousaf
 
 Cloud Security Architect securing UK government, critical national infrastructure, and global enterprise across AWS and Azure.
 
@@ -10,11 +10,11 @@ Director at [Cyber Spartans Ltd](https://cyberspartans.co.uk) · Founder of [Bre
 
 I design and deliver security architecture for environments where getting it wrong has real consequences. My background spans some of the most security-sensitive organisations in the UK:
 
-- **Smart DCC** · Security architecture for the SMKI platform supporting UK Critical National Infrastructure, AWS-based PKI re-platforming across 100+ systems
-- **Ministry of Justice** · Lead Cloud Security Architect across MOJ Digital and Technology, breach attack simulation, continuous security validation
+- **Smart DCC** · Security architecture for the SMKI platform supporting UK Critical National Infrastructure. AWS-based PKI re-platforming across 100+ systems
+- **Ministry of Justice** · Lead Cloud Security Architect across MOJ Digital and Technology. Breach attack simulation, continuous security validation
 - **HM Land Registry** · Secure AWS architecture, API security, STRIDE threat modelling across a fully cloud-based platform
-- **AIG** · Cloud security architecture across Azure and GCP, Azure VMware Services (AVS) migration security, Zscaler ZIA
-- **Jaguar Land Rover** · Enterprise architecture and governance, reduced Shadow IT and OT security risks by 60%
+- **AIG** · Cloud security architecture across Azure and GCP. Azure VMware Services (AVS) migration security, Zscaler ZIA deployment
+- **Jaguar Land Rover** · Enterprise architecture and governance. Reduced Shadow IT and OT security risks by 60%
 
 ---
 
@@ -33,11 +33,12 @@ I design and deliver security architecture for environments where getting it wro
 
 ## BreachForge
 
-I maintain [BreachForge](https://breachforge.co.uk), a breach and attack simulation platform built in-house.
+I founded and built [BreachForge](https://breachforge.co.uk), a breach and attack simulation platform developed in-house at Cyber Spartans Ltd.
 
 - 154 MITRE ATT&CK technique references across 10 attack scenarios
 - Storm-0558 and TeamTNT threat actor simulations
 - Maps adversary techniques to your defensive controls
+- No payloads. No exploits. Safe by design.
 - Live at [breachforge.co.uk](https://breachforge.co.uk)
 
 ---
@@ -66,4 +67,4 @@ AWS · Azure · GCP · Terraform · Kubernetes · Zscaler · Wiz · Microsoft Se
 - Cyber Spartans: [cyberspartans.co.uk](https://cyberspartans.co.uk)
 - BreachForge: [breachforge.co.uk](https://breachforge.co.uk)
 - About.me: [about.me/saleemyousaf](https://about.me/saleemyousaf)
-- Email: saleem.yousaf@cyberspartans.co.uk
+- Email: [saleem.yousaf@cyberspartans.co.uk](mailto:saleem.yousaf@cyberspartans.co.uk)
