@@ -27,6 +27,8 @@ I design and deliver security architecture for environments where getting it wro
 - AI and LLM security · RAG pipeline security, governance frameworks, prompt injection risk
 - OT security · industrial network segmentation, IDMZ patterns, CNI environments
 - Cloud migration security · AWS and Azure, lift-and-shift with embedded controls
+- Microsoft Sentinel · onboarding signal sources, building detection rules, creating runbooks and playbooks for SOC automation
+- Cyber Recovery Architecture · BC and DR design, resilience validation, recovery architecture across cloud and hybrid environments
 - GRC · GDPR, PCI-DSS, NIST, CIS Controls
 
 ---
